@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="container section-padding">
       <div style={{ textAlign: 'center', maxWidth: '600px', margin: '0 auto' }}>
-        <h1 style={{ fontSize: '3.5rem', marginBottom: '1.5rem' }}>mortgage-calculator</h1>
+        <h1 style={{ fontSize: '3.5rem', marginBottom: '1.5rem' }}>Mortgage Eligibility</h1>
         <p style={{ fontSize: '1.25rem', color: 'var(--text-muted)', marginBottom: '2.5rem' }}>
           We are committed to protecting your personal information and being transparent about how we use it.
         </p>

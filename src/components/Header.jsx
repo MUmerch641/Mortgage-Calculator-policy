@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="container header-inner">
-        <Link to="/" className="logo">Mortgage Calculator</Link>
+        <Link to="/" className="logo">Mortgage Eligibility</Link>
         <nav className="nav-links">
           <Link to="/" className={`nav-link ${isActive('/') ? 'active' : ''}`}>Home</Link>
           <Link to="/privacy-policy" className={`nav-link ${isActive('/privacy-policy') ? 'active' : ''}`}>Privacy</Link>
