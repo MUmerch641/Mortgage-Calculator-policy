@@ -26,7 +26,7 @@ const DeleteAccount = () => {
         </div>
         <h1 className="pp-hero-title">Account & Data Deletion</h1>
         <p className="pp-hero-subtitle">
-          Request the permanent removal of your <strong>mortgage-calculator</strong> account and associated data.
+          Request the permanent removal of your <strong>Mortgage Eligibility</strong> account and associated data.
         </p>
       </div>
 
@@ -104,7 +104,7 @@ const DeleteAccount = () => {
           </DeletionSection>
 
           <div className="pp-footer-note">
-            <p>© {new Date().getFullYear()} Mortgage Calculator. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Mortgage Eligibility. All rights reserved.</p>
             <p style={{ marginTop: '0.5rem', opacity: 0.8 }}>Crafted for clarity and legal transparency.</p>
           </div>
         </article>

@@ -87,7 +87,7 @@ const PrivacyPolicy = () => {
             </div>
             <div>
               <p>
-                This Privacy Policy describes how <strong>mortgage-calculator</strong> ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
+                This Privacy Policy describes how <strong>Mortgage Eligibility</strong> ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
               </p>
             </div>
           </div>
@@ -95,13 +95,13 @@ const PrivacyPolicy = () => {
           {/* Section 1 */}
           <Section number="01" title="Who We Are">
             <p>
-              mortgage-calculator is a React Native mobile application available on iOS and Android. The App is designed to help users in the UAE and internationally to estimate mortgage eligibility, calculate repayment amounts, and generate financial reports based on their income and property details.
+              Mortgage Eligibility is a React Native mobile application available on iOS and Android. The App is designed to help users in the UAE and internationally to estimate mortgage eligibility, calculate repayment amounts, and generate financial reports based on their income and property details.
             </p>
             <p>
               The App is offered as a subscription-based service with premium features unlocked through an active subscription.
             </p>
             <div className="pp-highlight-box">
-              <strong>App Name:</strong> mortgage-calculator<br />
+              <strong>App Name:</strong> Mortgage Eligibility<br />
               <strong>Platform:</strong> iOS &amp; Android (React Native)<br />
               <strong>Primary Region:</strong> United Arab Emirates (UAE)<br />
               <strong>Contact:</strong> <a href="mailto:Aun-ali@hotmail.com">Aun-ali@hotmail.com</a>
